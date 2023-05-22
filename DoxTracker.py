@@ -4,8 +4,8 @@
 #   ~ DoxTracker 1.0 beta ~                            
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #
-# CoDeD: bY KURO-CODE
-# DaTe: 03/12/2017
+# CoDeD: bY Cr0DiX666
+# DaTe: Senin,22-05-2023
 # Dev: Python
 #
 #~~~~~~~~~~~ INFO ~~~~~~~~~~~~
